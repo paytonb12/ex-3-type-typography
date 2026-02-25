@@ -1,0 +1,20 @@
+html{
+    background-color: rgb(176, 252, 242);
+   font-family: "Josefin Sans", sans-serif;
+}
+h1{font-family: "Jersey 10", sans-serif;}
+.call-out{text-align: right;}
+
+p{color: rgb(0, 90, 97);}
+h2, h3{color:rgb(0, 90, 97);}
+
+
+h2{font-size: 50px;}
+h3{font-size: 30px;}
+
+.site-id{
+    color: rgb(255, 99, 177);
+    font-size: 120px;
+     font-weight: 400;
+    line-height: 0.6;
+}
